@@ -1,1 +1,10 @@
 @import '../../node_modules/bootstrap/scss/bootstrap';
+
+
+.active{
+    border-bottom: 3px solid rgb(101, 101, 228);
+}
+
+.pokedex{
+    width: 100%;
+}
